@@ -51,7 +51,6 @@ while count < length:
 print(json_blob)
 
 with open('data.json', 'w') as json_file:
-    # data = json.loads(json_blob)
     json.dump(json_blob['data'], json_file)
     print('data saved')
 
