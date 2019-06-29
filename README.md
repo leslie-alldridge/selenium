@@ -11,5 +11,5 @@ A section script - This grabs events from NR status and jsonifies it (self made 
 
 ### Next steps 
 
-Find toil to automate at work 
+Find toil to automate
 
