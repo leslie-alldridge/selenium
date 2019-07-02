@@ -9,6 +9,8 @@ Theres a facebook login and post automation (guide)
 
 A section script - This grabs events from NR status and jsonifies it (self made from scratch)
 
+Community scripts
+
 ### Next steps 
 
 Find toil to automate
